@@ -15,3 +15,7 @@ The Weather Application is designed to fetch and store weather data for multiple
 - **IDE**: IntelliJ IDEA Ultimate or Visual Studio Code (or any other preferred code editor)
 - **Docker**: Mandatory for containerization and deployment
 - **Postman**: Optional for API testing and development
+
+## Screenshots
+![Description of the image](E:\project images weather\1.png)
+
