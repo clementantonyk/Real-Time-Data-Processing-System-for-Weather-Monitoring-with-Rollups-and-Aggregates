@@ -47,7 +47,7 @@ consecutive updates**
  2. Clone the repository by using the command
      
      ```
-      git clone [https://github.com/Krish-Depani/Decentralized-Voting-System-Using-Ethereum-Blockchain.git](https://github.com/clementantonyk/Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates.git
+      git clone https://github.com/clementantonyk/Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates.git
      ```
      
  3. Navigate to the project directory:
@@ -61,8 +61,7 @@ consecutive updates**
     ```
     docker-compose up --build
     ```
-
-
+## Usage
 
 
 
