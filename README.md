@@ -40,7 +40,7 @@ consecutive updates**
  2. Clone the repository by using the command
      ```
       git clone https://github.com/Krish-Depani/Decentralized-Voting-System-Using-Ethereum-Blockchain.git
-    
+     ```
 
 
 
