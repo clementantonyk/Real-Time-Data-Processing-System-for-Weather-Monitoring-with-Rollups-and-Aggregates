@@ -5,15 +5,15 @@
 The Weather Application is designed to fetch and store weather data for multiple cities using the OpenWeatherMap API. It provides insights into weather conditions, alerts for high temperatures, and historical weather summaries.
 
 ## Features
-- **Automated Weather Data Fetching**: Automatically retrieves weather data every 5 minutes for major cities.
-- **Additional Weather Parameters**: Supports additional weather parameters from the OpenWeatherMap API (e.g., humidity, wind speed) and incorporates them into rollups/aggregates.
-- **Temperature Alerts**: Sends alerts when the maximum temperature exceeds a specified threshold (30°C) Celsius for two
+- Automatically retrieves weather data every 5 minutes for major cities.
+- Supports additional weather parameters from the OpenWeatherMap API (e.g., humidity, wind speed) and incorporates them into rollups/aggregates.
+- Sends alerts when the maximum temperature exceeds a specified threshold (30°C) Celsius for two
  consecutive updates.
-- **Data Storage**: Stores weather summaries in a MySQL database for later retrieval.
-- **Daily Weather Summaries**: Retrieves the latest weather summaries for the current day.
-- **Historical Data Access**: Allows access to recent maximum temperatures for the last 5 days for each city.
-- **Weather Forecast Functionality**: Explores functionalities for retrieving weather forecasts and generating summaries using visuals.
-- **User-Friendly Interface**: Intuitive UI for users to view current weather conditions and historical data.
+- Stores weather summaries in a MySQL database for later retrieval.
+- Retrieves the latest weather summaries for the current day.
+- Allows access to recent maximum temperatures for the last 5 days for each city.
+- Explores functionalities for retrieving weather forecasts and generating summaries using visuals.
+- Intuitive UI for users to view current weather conditions and historical data.
 
 ## Requirements
 - **IDE**: IntelliJ IDEA Ultimate or Visual Studio Code (or any other preferred code editor)
