@@ -6,6 +6,7 @@ The Weather Application is designed to fetch and store weather data for multiple
 
 ## Features
 - **Automated Weather Data Fetching**: Automatically retrieves weather data every 5 minutes for major cities.
+- **Additional Weather Parameters**: Supports additional weather parameters from the OpenWeatherMap API (e.g., humidity, wind speed) and incorporates them into rollups/aggregates.
 - **Temperature Alerts**: Sends alerts when the maximum temperature exceeds a specified threshold (30°C) Celsius for two
  consecutive updates.
 - **Data Storage**: Stores weather summaries in a MySQL database for later retrieval.
@@ -43,7 +44,7 @@ The Weather Application is designed to fetch and store weather data for multiple
     ```
 ## Usage
 
-**After running docker-compose, you can use the following URLs:**
+**After running docker-compose, you can use the following URLs**:
 
  1. Since the application hasn't run for the past 4 days, you can optionally add dummy data for that period using a POST request in Postman to visualize the data clearly.
     
