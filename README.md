@@ -35,7 +35,10 @@ consecutive updates**
 ![2](https://github.com/user-attachments/assets/a7cd3529-09a0-4048-a3ca-3528a61acd79)
 
 ## Installation
- 1. Open a Terminal
+
+ ```1. Open a Terminal
+ 2. Clone the repository by using the command
+    
 
 
 
