@@ -1,7 +1,4 @@
 
-
-A brief description of what this project does and who it's for
-
 # Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates
 
 ## Overview
@@ -21,28 +18,11 @@ The Weather Application is designed to fetch and store weather data for multiple
 - **Docker**: Mandatory for containerization and deployment
 - **Postman**: Optional for API testing and development
 
-## Screenshots
-
-**Weather Monitoring System**
-
-![1](https://github.com/user-attachments/assets/5eebf415-12aa-44a2-8ac4-074669bf6dd3)
-
-**Weather Monitoring System triggering a red alert after the Max temperature exceeded (30°C) Celsius for two
-consecutive updates**
-
-- **Alert Overview:** Real-time monitoring triggered an alert due to a temperature threshold breach.
-
-![3](https://github.com/user-attachments/assets/0d6efcff-3725-4998-a61e-e0b5a710942d)
-
-**Weather Monitoring System displays weather data from the past 5 days, which is stored in a database for easy tracking and analysis.**
-
-![2](https://github.com/user-attachments/assets/a7cd3529-09a0-4048-a3ca-3528a61acd79)
-
 ## Installation
 
 **Make sure that IDE and Docker is Installed and Opened**
 
- 1. Open a Terminal
+ 1. Open the Terminal
 
  2. Clone the repository by using the command
      
@@ -63,5 +43,30 @@ consecutive updates**
     ```
 ## Usage
 
+ 1. Since the application hasn't run for the past 4 days, you can optionally add dummy data for that period using a POST request in Postman to visualize the data clearly.
+    ```
+    http://localhost:9090/add-summary
+    ```
+ 2. After running docker-compose, navigate to the dashboard using this URL
+    ```
+    http://localhost:9090/dashboard
+    ```
+
+## Screenshots
+
+**Weather Monitoring System**
+
+![1](https://github.com/user-attachments/assets/5eebf415-12aa-44a2-8ac4-074669bf6dd3)
+
+**Weather Monitoring System triggering a red alert after the Max temperature exceeded (30°C) Celsius for two
+consecutive updates**
+
+- **Alert Overview:** Real-time monitoring triggered an alert due to a temperature threshold breach.
+
+![3](https://github.com/user-attachments/assets/0d6efcff-3725-4998-a61e-e0b5a710942d)
+
+**Weather Monitoring System displays weather data from the past 5 days, which is stored in a database for easy tracking and analysis.**
+
+![2](https://github.com/user-attachments/assets/a7cd3529-09a0-4048-a3ca-3528a61acd79)
 
 
