@@ -1,3 +1,7 @@
+
+
+A brief description of what this project does and who it's for
+
 # Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates
 
 ## Overview
@@ -36,14 +40,27 @@ consecutive updates**
 
 ## Installation
 
+**Make sure that IDE and Docker is Installed and Opened**
+
  1. Open a Terminal
 
  2. Clone the repository by using the command
+     
      ```
       git clone [https://github.com/Krish-Depani/Decentralized-Voting-System-Using-Ethereum-Blockchain.git](https://github.com/clementantonyk/Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates.git
      ```
- 3. 
+     
+ 3. Navigate to the project directory:
+    
+    ```
+    cd Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates
+    ``` 
 
+4. Run the following command to start the application:
+
+    ```
+    docker-compose up --build
+    ```
 
 
 
