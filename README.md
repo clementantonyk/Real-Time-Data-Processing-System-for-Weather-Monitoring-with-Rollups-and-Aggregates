@@ -65,7 +65,7 @@ The Weather Application is designed to fetch and store weather data for multiple
 **Weather Monitoring System triggering a red alert after the Max temperature exceeded (30°C) Celsius for two
 consecutive updates**
 
-**Alert Overview:** Real-time monitoring triggered an alert due to a temperature threshold breach.
+- **Alert Overview:** Real-time monitoring triggered an alert due to a temperature threshold breach.
 
 ![3](https://github.com/user-attachments/assets/0d6efcff-3725-4998-a61e-e0b5a710942d)
 
