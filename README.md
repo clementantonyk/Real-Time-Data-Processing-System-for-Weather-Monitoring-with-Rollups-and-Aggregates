@@ -18,7 +18,9 @@ The Weather Application is designed to fetch and store weather data for multiple
 
 ## Screenshots
 ![1](https://github.com/user-attachments/assets/5eebf415-12aa-44a2-8ac4-074669bf6dd3)
-![1](https://github.com/user-attachments/assets/276e1137-10cc-41b6-bb85-778118482294)
+
 ![2](https://github.com/user-attachments/assets/a7cd3529-09a0-4048-a3ca-3528a61acd79)
+
+![3](https://github.com/user-attachments/assets/0d6efcff-3725-4998-a61e-e0b5a710942d)
 
 
