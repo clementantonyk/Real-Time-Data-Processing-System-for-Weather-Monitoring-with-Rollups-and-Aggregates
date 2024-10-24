@@ -36,7 +36,7 @@ consecutive updates**
 
 ## Installation
 
-    1. Open a Terminal
+- 1. Open a Terminal
 
 
 
