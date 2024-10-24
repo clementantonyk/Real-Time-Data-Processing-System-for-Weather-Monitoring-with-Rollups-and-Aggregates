@@ -12,6 +12,7 @@ The Weather Application is designed to fetch and store weather data for multiple
 - **Data Storage**: Stores weather summaries in a MySQL database for later retrieval.
 - **Daily Weather Summaries**: Retrieves the latest weather summaries for the current day.
 - **Historical Data Access**: Allows access to recent maximum temperatures for the last 5 days for each city.
+- **Weather Forecast Functionality**: Explores functionalities for retrieving weather forecasts and generating summaries using visuals.
 - **User-Friendly Interface**: Intuitive UI for users to view current weather conditions and historical data.
 
 ## Requirements
