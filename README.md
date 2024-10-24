@@ -5,7 +5,8 @@ The Weather Application is designed to fetch and store weather data for multiple
 
 ## Features
 - **Automated Weather Data Fetching**: Automatically retrieves weather data every 5 minutes for major cities.
-- **Temperature Alerts**: Sends alerts when the maximum temperature exceeds a specified threshold (30°C).
+- **Temperature Alerts**: Sends alerts when the maximum temperature exceeds a specified threshold (30°C) Celsius for two
+ consecutive updates.
 - **Data Storage**: Stores weather summaries in a MySQL database for later retrieval.
 - **Daily Weather Summaries**: Retrieves the latest weather summaries for the current day.
 - **Historical Data Access**: Allows access to recent maximum temperatures for the last 5 days for each city.
@@ -17,12 +18,23 @@ The Weather Application is designed to fetch and store weather data for multiple
 - **Postman**: Optional for API testing and development
 
 ## Screenshots
+
+**Weather Monitoring System**
+
 ![1](https://github.com/user-attachments/assets/5eebf415-12aa-44a2-8ac4-074669bf6dd3)
 
-This screenshot displays the Weather Monitoring System in action, where an alert has been triggered due to a threshold exceedance.
+**Weather Monitoring System triggering a red alert after the Max temperature exceeded (30°C) Celsius for two
+consecutive updates**
+
+- **Alert Overview:** Real-time monitoring triggered an alert due to a temperature threshold breach.
+
 ![3](https://github.com/user-attachments/assets/0d6efcff-3725-4998-a61e-e0b5a710942d)
 
+**Weather Monitoring System displays weather data from the past 5 days, which is stored in a database for easy tracking and analysis.**
+
 ![2](https://github.com/user-attachments/assets/a7cd3529-09a0-4048-a3ca-3528a61acd79)
+
+
 
 
 
