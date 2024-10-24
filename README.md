@@ -37,10 +37,12 @@ consecutive updates**
 ## Installation
 
  1. Open a Terminal
+
  2. Clone the repository by using the command
      ```
-      git clone https://github.com/Krish-Depani/Decentralized-Voting-System-Using-Ethereum-Blockchain.git
+      git clone [https://github.com/Krish-Depani/Decentralized-Voting-System-Using-Ethereum-Blockchain.git](https://github.com/clementantonyk/Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates.git
      ```
+ 3. 
 
 
 
