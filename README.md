@@ -43,12 +43,14 @@ The Weather Application is designed to fetch and store weather data for multiple
     ```
 ## Usage
 
+- **After running docker-compose, you can use the following URLs:**
+
  1. Since the application hasn't run for the past 4 days, you can optionally add dummy data for that period using a POST request in Postman to visualize the data clearly.
     
     ```
     http://localhost:9090/add-summary
     ```
- 2. After running docker-compose, navigate to the dashboard using this URL
+ 2. To navigate to the dashboard
     
     ```
     http://localhost:9090/dashboard
