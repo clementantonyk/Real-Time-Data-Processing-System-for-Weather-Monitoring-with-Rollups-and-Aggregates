@@ -22,8 +22,8 @@ import java.util.stream.Collectors;
 @Service
 public class WeatherService {
 
-    private static final String API_KEY = "bbe012ad9d5957b26ba21fdbd3b8c695"; // Replace with your valid API key
-    private static final String API_URL = "http://api.openweathermap.org/data/2.5/weather?q={city}&appid=" + API_KEY;
+    private static final String API_KEY = YOUR_API_KEY; // Replace with your valid API key
+    private static final String API_URL = YOUR_API_URL + API_KEY;
 
     // Thresholds for alerting
     private static final double TEMP_THRESHOLD = 35.0; // Celsius
